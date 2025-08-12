@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Replit",
+    "url": "https://replit.com",
+    "category": "Multi-language",
+    "description": "Popular online IDE supporting many languages and real-time collaboration."
+  },
+  {
+    "name": "JDoodle",
+    "url": "https://www.jdoodle.com",
+    "category": "Multi-language",
+    "description": "Lightweight compiler supporting many languages."
+  },
+  {
+    "name": "Ideone",
+    "url": "https://ideone.com",
+    "category": "Multi-language",
+    "description": "Pastebin and online compiler for many languages."
+  },
+  {
+    "name": "OnlineGDB",
+    "url": "https://www.onlinegdb.com",
+    "category": "Multi-language",
+    "description": "Compiler and debugger for many languages."
+  },
+  {
+    "name": "Paiza.IO",
+    "url": "https://paiza.io",
+    "category": "Multi-language",
+    "description": "Cloud IDE with sharing and collaboration."
+  },
+  {
+    "name": "OneCompiler",
+    "url": "https://onecompiler.com",
+    "category": "Multi-language",
+    "description": "Fast online compiler for various languages."
+  },
+  {
+    "name": "Programiz Compiler",
+    "url": "https://www.programiz.com",
+    "category": "Multi-language",
+    "description": "Beginner-friendly compilers and tutorials."
+  },
+  {
+    "name": "Sphere Engine",
+    "url": "https://sphere-engine.com",
+    "category": "Multi-language",
+    "description": "Professional code execution engine API."
+  },
+  {
+    "name": "Coliru",
+    "url": "http://coliru.stacked-crooked.com",
+    "category": "C/C++",
+    "description": "Online C++ compile & run tool."
+  },
+  {
+    "name": "cpp.sh",
+    "url": "http://cpp.sh",
+    "category": "C/C++",
+    "description": "Minimalist online C++ shell."
+  },
+  {
+    "name": "Godbolt Compiler Explorer",
+    "url": "https://godbolt.org",
+    "category": "C/C++",
+    "description": "View compiled assembly output in real time."
+  },
+  {
+    "name": "Wandbox",
+    "url": "https://wandbox.org",
+    "category": "C/C++",
+    "description": "Multi-compiler C++ online IDE."
+  },
+  {
+    "name": "C++ Shell",
+    "url": "https://cppshell.com",
+    "category": "C/C++",
+    "description": "Quick C++ testing environment."
+  },
+  {
+    "name": "MyCompiler",
+    "url": "https://www.mycompiler.io",
+    "category": "Multi-language",
+    "description": "Online compiler for various languages."
+  },
+  {
+    "name": "PythonAnywhere",
+    "url": "https://www.pythonanywhere.com",
+    "category": "Python",
+    "description": "Host, run, and share Python code online."
+  },
+  {
+    "name": "Trinket",
+    "url": "https://trinket.io",
+    "category": "Python",
+    "description": "Embed Python programs in websites."
+  },
+  {
+    "name": "Pyodide",
+    "url": "https://pyodide.org",
+    "category": "Python",
+    "description": "Python compiled to WebAssembly for browsers."
+  },
+  {
+    "name": "Google Colab",
+    "url": "https://colab.research.google.com",
+    "category": "Data Science",
+    "description": "Jupyter notebook environment with free GPU."
+  },
+  {
+    "name": "Binder (Jupyter)",
+    "url": "https://mybinder.org",
+    "category": "Data Science",
+    "description": "Launch live Jupyter notebooks from GitHub."
+  },
+  {
+    "name": "Codiva.io",
+    "url": "https://www.codiva.io",
+    "category": "Java",
+    "description": "Online Java compiler with instant feedback."
+  },
+  {
+    "name": "CodePen",
+    "url": "https://codepen.io",
+    "category": "Web",
+    "description": "Frontend playground for HTML/CSS/JS."
+  },
+  {
+    "name": "JSFiddle",
+    "url": "https://jsfiddle.net",
+    "category": "Web",
+    "description": "Collaborative JS, HTML, CSS editor."
+  },
+  {
+    "name": "JSBin",
+    "url": "https://jsbin.com",
+    "category": "Web",
+    "description": "Live pastebin for JS and HTML/CSS."
+  },
+  {
+    "name": "StackBlitz",
+    "url": "https://stackblitz.com",
+    "category": "Web",
+    "description": "Instant dev environments for web apps."
+  },
+  {
+    "name": "CodeSandbox",
+    "url": "https://codesandbox.io",
+    "category": "Web",
+    "description": "Online IDE for web development."
+  },
+  {
+    "name": "PlayCode",
+    "url": "https://playcode.io",
+    "category": "Web",
+    "description": "Instant preview for JavaScript coding."
+  },
+  {
+    "name": "3v4l.org",
+    "url": "https://3v4l.org",
+    "category": "PHP",
+    "description": "Run your PHP code on multiple versions."
+  },
+  {
+    "name": "PHP Fiddle",
+    "url": "https://phpfiddle.org",
+    "category": "PHP",
+    "description": "PHP online IDE with MySQL support."
+  },
+  {
+    "name": "Try Ruby",
+    "url": "http://tryruby.org",
+    "category": "Ruby",
+    "description": "Interactive Ruby tutorials and shell."
+  },
+  {
+    "name": "Replit (Ruby)",
+    "url": "https://replit.com/languages/ruby",
+    "category": "Ruby",
+    "description": "Replit environment for Ruby coding."
+  },
+  {
+    "name": "Go Playground",
+    "url": "https://go.dev/play",
+    "category": "Go",
+    "description": "Official Go code runner in browser."
+  },
+  {
+    "name": "Goplay",
+    "url": "https://goplay.tools",
+    "category": "Go",
+    "description": "Enhanced Go playground with sharing."
+  },
+  {
+    "name": "Rust Playground",
+    "url": "https://play.rust-lang.org",
+    "category": "Rust",
+    "description": "Official Rust language playground."
+  },
+  {
+    "name": "Swift Resources",
+    "url": "https://developer.apple.com/swift/resources",
+    "category": "Swift",
+    "description": "Swift learning resources and Playgrounds."
+  },
+  {
+    "name": "Kotlin Playground",
+    "url": "https://play.kotlinlang.org",
+    "category": "Kotlin",
+    "description": "Official Kotlin web-based compiler."
+  },
+  {
+    "name": "R-Fiddle",
+    "url": "http://www.r-fiddle.org",
+    "category": "R",
+    "description": "R language online editor and runner."
+  },
+  {
+    "name": "RStudio Cloud",
+    "url": "https://posit.cloud",
+    "category": "R",
+    "description": "Cloud version of RStudio IDE."
+  },
+  {
+    "name": "SQL Fiddle",
+    "url": "http://sqlfiddle.com",
+    "category": "Database",
+    "description": "Test and share SQL queries online."
+  },
+  {
+    "name": "DB Fiddle",
+    "url": "https://dbfiddle.uk",
+    "category": "Database",
+    "description": "Run SQL queries for multiple databases."
+  },
+  {
+    "name": "SQLite Online",
+    "url": "https://sqliteonline.com",
+    "category": "Database",
+    "description": "Browser-based SQLite DB editor."
+  },
+  {
+    "name": "Bash Online",
+    "url": "https://www.tutorialspoint.com/execute_bash_online.php",
+    "category": "Shell",
+    "description": "Run Bash shell commands online."
+  },
+  {
+    "name": "ShellCheck Playground",
+    "url": "https://www.shellcheck.net",
+    "category": "Shell",
+    "description": "Lint and debug shell scripts."
+  },
+  {
+    "name": "Kaggle Notebooks",
+    "url": "https://www.kaggle.com/code",
+    "category": "Data Science",
+    "description": "Cloud Jupyter notebooks with datasets."
+  },
+  {
+    "name": "Deepnote",
+    "url": "https://deepnote.com",
+    "category": "Data Science",
+    "description": "Collaborative data science notebooks."
+  },
+  {
+    "name": "Datalore",
+    "url": "https://datalore.jetbrains.com",
+    "category": "Data Science",
+    "description": "JetBrains' collaborative data science IDE."
+  },
+  {
+    "name": "Python Tutor",
+    "url": "http://pythontutor.com",
+    "category": "Education",
+    "description": "Visualize Python code execution step by step."
+  },
+  {
+    "name": "Programiz (Java)",
+    "url": "https://www.programiz.com/java-programming/online-compiler",
+    "category": "Java",
+    "description": "Online Java compiler by Programiz."
+  },
+  {
+    "name": "Codenvy (Alternative)",
+    "url": "https://www.eclipse.org/codenvy/",
+    "category": "IDE",
+    "description": "Cloud IDE based on Eclipse Che."
+  },
+  {
+    "name": "MyCompiler (alt)",
+    "url": "https://www.mycompiler.io",
+    "category": "Multi-language",
+    "description": "Another online compiler supporting many languages."
+  }
+]
