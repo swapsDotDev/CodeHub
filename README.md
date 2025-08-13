@@ -1,4 +1,4 @@
-# CodeHub React - Complete
+# CodeHub
 
 CodeHub React is a modern web application built with Vite and React that aggregates over 50 online compilers and sandboxes for various programming languages. It provides a unified interface for developers to discover, preview, and access coding environments directly from one place. The app features live favicon fetching, categorized browsing, and quick previews, making it a valuable resource for learning, experimenting, and comparing different online coding platforms.
 
