@@ -17,9 +17,7 @@ function Favicon({ url, name }) {
 
 function SEOHead() {
   useEffect(() => {
-    // Update document title and meta tags for SEO
     document.title = "CodeHub - Online Compiler & Sandbox Directory | 50+ Coding Platforms";
-    // Add viewport meta for production
     if (!document.querySelector('meta[name="viewport"]')) {
       const metaViewport = document.createElement('meta');
       metaViewport.name = "viewport";
